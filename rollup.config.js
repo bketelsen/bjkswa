@@ -7,6 +7,7 @@ import postcssImport from 'postcss-import'
 
 const production = !process.env.ROLLUP_WATCH;
 
+
 export const config = {
   staticDir: 'static',
   distDir: 'dist',
