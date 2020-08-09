@@ -5,7 +5,6 @@ summary: "Webhook Endpoint"
 github: "https://github.com/bketelsen/captainhook"
 org: "bketelsen"
 repo: "captainhook"
-layout: blog
 tags:
 - "go"
 - "webhooks"
