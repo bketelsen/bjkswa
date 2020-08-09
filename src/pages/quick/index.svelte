@@ -7,7 +7,7 @@
     .sort((a, b) => b.meta["frontmatter"].published.localeCompare(a.meta["frontmatter"].published));
 </script>
 
-<h1>Quick</h1>
+<h1>Quick Posts</h1>
 
 <ul class="posts">
   {#each posts as {meta, path}}
