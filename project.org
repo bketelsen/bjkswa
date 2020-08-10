@@ -1,0 +1,10 @@
+#+TITLE: Project
+
+* Brian's Blog
+
+* Tasks
+
+* Notes
+** TODO My thing [2020-8-9 Sun]
+
+* Publishing
